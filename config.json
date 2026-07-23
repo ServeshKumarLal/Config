@@ -1,7 +1,7 @@
 {
   "projectName": "Lumina",
-  "backendUrl": "",
-  "loggingEnabled": false,
+  "backendUrl": "https://certainly-gardens-texture-disable.trycloudflare.com",
+  "loggingEnabled": true,
   "logEndpoint": "/log",
   "version": 1
 }
